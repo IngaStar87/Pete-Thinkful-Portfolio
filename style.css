@@ -3,12 +3,10 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color:#eae2b7
-  margin:100px;
-  height:200px;
-  width:300;
+  margin-left:300px;
+  margin-right:300px;
   justify-content:center;
-  align-items:center; ;
-}
+  }
 nav{text-align:center;word-spacing:20px}
 
 
