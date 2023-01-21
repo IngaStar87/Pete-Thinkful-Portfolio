@@ -60,7 +60,7 @@ hr {
   
 .image-circle { border:2px solid; border-radius:50%;background:#003049; border-image:"images/pete-thinkful.png";
   }
-.text-align-centre {
+.text-align-centre p {
   text-align: center;
 }
 footer {text-align:center;}
