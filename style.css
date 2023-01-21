@@ -1,0 +1,63 @@
+body{
+  color: #003049;
+  font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px;
+  background-color:#eae2b7;
+  margin-left:300px;
+  margin-right:300px;
+  justify-content:center;
+  }
+nav{text-align:center;word-spacing:20px}
+
+
+/* Set the font family for any h1, h2, or h3 heading */
+h1 {font-family:"Playfair Display", Times, serif; text-align:center;}
+h2 {fornt-family:"Playfair Display", Times, serif; text-align:center;}
+h3 {text-align:center; 
+    font-family: "Playfair Display", Times, serif;
+h4 {text-align:center; 
+    font-family: "Playfair Display", Times, serif;}
+h5 {text-align:center; 
+    font-family: "Playfair Display", Times, serif;}    
+}
+article {
+  padding: 50px 0;
+}
+
+article div {
+  text-align: center;
+  width: 100%;
+}
+
+p {font-family: "Playfair Display", Times, serif;
+  line-height: 1.5; text-align:left;
+}
+ul{text-align:left;}
+ol{color:red;text-decoration:underline;}
+
+  a:link {color:#d62828;}
+  a:visited {color:yellow;}
+  a:hover:{color:#f77f00;}
+  a:active:{color:green}}
+  
+/* The div container constrains the content width within the main container to 600px */
+div {
+  margin: auto;
+  width: 600px;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+/* Add your solution below */
+  
+.image-circle { border:2px solid; border-radius:50%;background:#003049; border-image:"images/pete-thinkful.png";
+  }
+footer {text-align:center;}
